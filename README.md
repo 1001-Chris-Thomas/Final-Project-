@@ -86,3 +86,9 @@ Install via Arduino IDE Library Manager:
 - `Serial` library functions
 
 UART communication is implemented directly via `UBRR0`, `UCSR0B`, `UCSR0C`, and `UDR0` registers. All timing uses `millis()`.
+
+---
+
+## Extra Video Link
+
+https://drive.google.com/file/d/185sXdb7coJ0jJr_56IvHSIQ6u2KgFVLl/view?usp=drive_link 
