@@ -40,14 +40,14 @@ A password-protected embedded security system built on the **Arduino Mega 2560**
 | LCD SCL | 21 |
 | Keypad Rows | 43, 42, 41, 40 |
 | Keypad Cols | 37, 38, 39, 36 |
-| Green LED | 22 (PA0) |
-| Red LED | 23 (PA1) |
-| Yellow LED | 24 (PA2) |
-| White LED | 25 (PA3) |
-| Buzzer | 26 (PA4) |
-| Button 1 — ON/ARM | 32 (PC5) |
-| Button 2 — Inside toggle | 30 (PC7) |
-| Button 3 — OFF/Reset | 31 (PC6) |
+| Green LED | 22 |
+| Red LED | 23 |
+| Yellow LED | 24 |
+| White LED | 25 |
+| Buzzer | 26 |
+| Button 1 — ON/ARM | 32 |
+| Button 2 — Inside toggle | 30 |
+| Button 3 — OFF/Reset | 31 |
 
 ---
 
